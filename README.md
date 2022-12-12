@@ -1,2 +1,2 @@
 # Running Car
- Running Car game
+ Running Car game built using JavaScript
